@@ -30,5 +30,5 @@ mv apache-cassandra-2.0.17 opt/cassandra
 # sudo ./cassandra in all nodes
 
 
-https://www.digitalocean.com/community/tutorials/how-to-install-cassandra-and-run-a-single-node-cluster-on-ubuntu-14-04
-https://github.com/bazaarvoice/cassandra
+# https://www.digitalocean.com/community/tutorials/how-to-install-cassandra-and-run-a-single-node-cluster-on-ubuntu-14-04
+# https://github.com/bazaarvoice/cassandra
